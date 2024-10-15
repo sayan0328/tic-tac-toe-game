@@ -36,7 +36,7 @@
 
 ## Screenshots
 
-![Screenshot](images/tic-tac-toe-app.jpg.jpg)
+![Screenshot](images/tic-tac-toe-app.jpg)
 
 ## GitHub
 
